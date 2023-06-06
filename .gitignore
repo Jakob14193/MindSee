@@ -1,2 +1,4 @@
 raw_data/
 data/
+.ipynb_checkpoints/
+.DS_Store
